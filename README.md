@@ -38,10 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saleemahmed&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saleemahmed&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📌 Featured Data Engineering Projects
