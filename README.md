@@ -48,9 +48,9 @@
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleem-ahmed-/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:saleem.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:saleem0316ahmed.email@example.com)
 
 ---
 ⭐ _"Turning raw data into powerful insights!"_
