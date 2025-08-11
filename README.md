@@ -41,15 +41,14 @@
 ---
 
 ## 📌 Featured Data Engineering Projects
-- **[ETL Data Pipeline](https://github.com/username/project)** – Automated ingestion, transformation, and loading into Snowflake using AWS Glue  
-- **[Climate Data Warehouse](https://github.com/username/project)** – Multi-schema architecture in Snowflake for historical climate analytics  
-- **[Donation Management System](https://github.com/username/project)** – Role-based access, transaction mapping, and SQL-backed storage  
+- **[SQL Data WareHouse ]([https://github.com/username/project](https://github.com/saleem-ahmed-313/sql-data-warehouse-project))** – Automated ingestion, transformation, and loading into Snowflake using AWS Glue  
+
 
 ---
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleem-ahmed-/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white)](https://yourportfolio.com)
+
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:saleem0316ahmed.email@example.com)
 
 ---
