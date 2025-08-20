@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=saleem-ahmed-313&color=blue)
+
 # Hi there, I'm Saleem Ahmed 👋
 
 💼 **Data Engineer | Big Data Enthusiast | Cloud Solutions Learner**  
